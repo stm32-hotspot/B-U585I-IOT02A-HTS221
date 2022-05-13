@@ -3,15 +3,16 @@
 ## Example
 
 * Read Temperature and Humidity from the HTS221.
-* The example use
-  * [X-CUBE-MEMS1](https://www.st.com/en/embedded-software/x-cube-mems1.html)
-  * [I-CUBE-STDIO](https://github.com/stm32-hotspot/I-CUBE-STDIO)
+
+## CMSIS Packs used
+* [X-CUBE-MEMS1](https://www.st.com/en/embedded-software/x-cube-mems1.html)
+* [I-CUBE-STDIO](https://github.com/stm32-hotspot/I-CUBE-STDIO)
 
 ## Boards Needed
 
   * [B-U585I-IOT02A](https://www.st.com/en/evaluation-tools/b-u585i-iot02a.html)
 
-## Software
+## Software tools
 * [STM32CubeIDE](https://www.st.com/stm32cubeide)
 * Serial Terminal (example [TeraTerm](http://www.teraterm.org/))
 
